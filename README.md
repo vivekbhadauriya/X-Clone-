@@ -73,8 +73,6 @@ Visit [http://localhost:3000](http://localhost:3000) in your browser.
 - **Like, comment, and follow** other users with real-time notifications.
 - Manage your profile by uploading profile and cover images.
 
-## 📸 Screenshots
-Add some relevant screenshots here to showcase your UI and features.
 
 ## 🤝 Contributing
 Contributions are welcome! If you'd like to contribute:
@@ -84,7 +82,7 @@ Contributions are welcome! If you'd like to contribute:
 4. Submit a pull request
 
 ## 📝 License
-This project is licensed under the [MIT License](LICENSE).
+This project is adapted from [Burak's work](<link-to-original-repo>) under the **MIT License**. Significant modifications and improvements have been made to enhance functionality and user experience.
 
 ## 📧 Contact
 For any inquiries or issues, feel free to reach out:
@@ -93,3 +91,4 @@ For any inquiries or issues, feel free to reach out:
 
 ---
 ⭐ **If you find this project useful, consider giving it a star!** ⭐
+
